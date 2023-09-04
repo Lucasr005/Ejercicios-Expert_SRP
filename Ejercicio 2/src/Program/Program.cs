@@ -20,3 +20,5 @@ que tiene varias responsabilidades para cumplir, entre ellas: validar los datos 
 
 /*En base al patrón Expert, lo ideal en esta clase es dividirla en dos, separando la responsabilidad de
 validar los datos en una propia clase separada.*/
+
+/* realizado con Nicolas Ferreira y Fransico Lima*/
