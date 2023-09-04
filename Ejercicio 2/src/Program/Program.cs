@@ -15,3 +15,8 @@ namespace Program
         }
     }
 }
+/*En base al principio SRP, la clase Appointment no cumple con el, ya 
+que tiene varias responsabilidades para cumplir, entre ellas: validar los datos y crear un mensaje sobra la consulta.*/
+
+/*En base al patrón Expert, lo ideal en esta clase es dividirla en dos, separando la responsabilidad de
+validar los datos en una propia clase separada.*/
